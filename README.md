@@ -1,4 +1,7 @@
-### Hi there 👋
+#Bienvenue sur mon GitHub ! 👋
+![image de profil](https://github.com/xFokko/xFokko/blob/main/img/fujoNoHoshi.jpg)
+
+⚡en formation pour devenir developpeur web fontend⚡
 
 <!--
 **xFokko/xFokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
