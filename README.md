@@ -1,5 +1,5 @@
-#Bienvenue sur mon GitHub ! 👋
-⚡en formation pour devenir developpeur web fontend⚡
+#Bienvenue sur mon GitHub ! 👋  
+⚡en formation pour devenir developpeur web fontend⚡  
 
 ![image de profil](https://github.com/xFokko/xFokko/blob/main/img/Hokusai.jpg))
 
