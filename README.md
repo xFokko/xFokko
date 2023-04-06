@@ -1,5 +1,5 @@
 #Bienvenue sur mon GitHub ! 👋
-![image de profil](https://github.com/xFokko/xFokko/blob/main/img/fujoNoHoshi.jpg)
+![image de profil](https://github.com/xFokko/xFokko/blob/main/img/Hokusai.jpg))
 
 ⚡en formation pour devenir developpeur web fontend⚡
 
